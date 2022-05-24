@@ -1,6 +1,6 @@
 # ml_timeseries_shap
-
-## 구조
+- This project is for testing time series and shap
+## Structure
 - [input]
   - stock_data_example.csv (training, prediction data)
   
