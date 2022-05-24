@@ -16,3 +16,6 @@
   - SPPModel_dasi.py -> module for train model
 
 - [test] : excute train, prediction and XAI
+
+## Shap output
+![force](https://user-images.githubusercontent.com/43153661/169966279-76eac40d-e7cf-494e-938c-cbac3d4f9151.png)
